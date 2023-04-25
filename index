@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Personal Website</title>
+</head>
+<body>
+	<header>
+		<h1>Welcome to My Website</h1>
+		<nav>
+			<ul>
+				<li><a href="#profile">Profile</a></li>
+				<li><a href="#works">Works</a></li>
+				<li><a href="#contact">Contact</a></li>
+			</ul>
+		</nav>
+	</header>
+	
+	<section id="profile">
+		<h2>Profile</h2>
+		<img src="profile.jpg" alt="My Profile Picture">
+		<p>Hi, my name is [Your Name]. I am [Your Age] years old and currently studying [Your Major] at [Your University]. [Insert a brief description about yourself and your interests].</p>
+	</section>
+	
+	<section id="works">
+		<h2>Works</h2>
+		<ul>
+			<li><a href="work1.html">Work 1</a></li>
+			<li><a href="work2.html">Work 2</a></li>
+			<li><a href="work3.html">Work 3</a></li>
+		</ul>
+	</section>
+	
+	<section id="contact">
+		<h2>Contact</h2>
+		<p>You can contact me through the following ways:</p>
+		<ul>
+			<li>Email: [Your Email]</li>
+			<li>LinkedIn: [Your LinkedIn Profile Link]</li>
+			<li>GitHub: [Your GitHub Profile Link]</li>
+		</ul>
+	</section>
+	
+	<footer>
+		<p>Copyright © [Year] [Your Name]
+	</footer>
+</body>
+</html>
